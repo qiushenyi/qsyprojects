@@ -5,3 +5,4 @@ change in master/origin
 changes in feature1
 changes in feature1
 new content
+new content2
